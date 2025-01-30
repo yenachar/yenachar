@@ -3,7 +3,7 @@
 - 📚 I know C++, computational theory, and technical writing.
 - 🌱 I’m currently learning Solidity.
 - 💞️ I’m looking to collaborate on privacy-related cryptocurrency projects.
-- 📫 How to reach me: @yenachar here and on Reddit. 
+- 📫 How to reach me: @yenachar here, on X, and on Reddit. 
 
 <!---
 This file appears on my GitHub profile.
